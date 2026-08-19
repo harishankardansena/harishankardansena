@@ -1,6 +1,6 @@
 # Hi, I'm Harishankar Dansena 👋
 
-### Full-Stack Developer • AI/ML Enthusiast • Problem Solver
+#### Full-Stack Developer • AI/ML Enthusiast • Builder
 
 I build practical software that solves real-world problems — from AI-powered applications and full-stack platforms to mobile apps and intelligent systems.
 
