@@ -2,7 +2,7 @@
 
 #### Full-Stack Developer • AI/ML Enthusiast • Builder
 
-I build practical software that solves real-world problems — from AI-powered applications and full-stack platforms to mobile apps and intelligent systems.
+I build full-stack and AI-powered applications focused on solving practical, real-world problems. I enjoy turning ideas into functional products across web, mobile, backend, and machine learning.
 
 💻 Full-Stack Development  
 🤖 AI & Machine Learning  
