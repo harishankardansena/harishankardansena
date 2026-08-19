@@ -91,3 +91,10 @@ A project focused on building a modern platform for connecting users and enablin
 A utility application designed to automatically organize files into categorized folders, making local file management faster and cleaner.
 
 **Tech:** Python
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harishankardansena&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishankardansena&layout=compact&theme=transparent&hide_border=true" height="170" />
+</p>
