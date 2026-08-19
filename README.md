@@ -77,7 +77,7 @@ FULL-STACK     AI / ML     MOBILE     BACKEND     PROBLEM SOLVING
 
 ---
 
-# 🚀 Selected Work
+## 🚀 Featured Projects
 
 > A selection of applications I've built, deployed and experimented with.
 
