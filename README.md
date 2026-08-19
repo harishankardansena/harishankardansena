@@ -1,6 +1,4 @@
-Bilkul bhai. 😎 **Ye complete final `README.md` hai**. Isko ek hi baar copy karke GitHub profile repository ke `README.md` mein paste kar de.
 
-````markdown
 <div align="center">
 
 # HARISHANKAR DANSENA
