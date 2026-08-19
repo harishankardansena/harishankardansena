@@ -92,9 +92,11 @@ A utility application designed to automatically organize files into categorized 
 
 **Tech:** Python
 
-## 📊 GitHub Stats
+## 🧠 Currently Building & Learning
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harishankardansena&show_icons=true&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishankardansena&layout=compact&hide_border=true" width="48%" />
-</p>
+- 🧩 Building **Mind Training Platform** focused on critical thinking, logic, and problem solving
+- 🤖 Exploring **AI/LLM-powered applications**
+- ⚛️ Improving my **React & React Native** development skills
+- 🐍 Strengthening **Python, Django & Machine Learning**
+- 💻 Practicing **Data Structures & Algorithms**
+- 🚀 Building and deploying real-world full-stack applications
