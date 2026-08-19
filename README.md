@@ -10,14 +10,13 @@ I build full-stack and AI-powered applications focused on solving practical, rea
 🧠 Problem Solving & DSA
 
 ---
-
-> **Building ideas into useful software.**
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="100%"/>
 
 </div>
+
+> **Building ideas into useful software.**
 
 ## 🛠️ Tech Stack
 
