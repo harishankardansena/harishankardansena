@@ -13,6 +13,12 @@ I build full-stack and AI-powered applications focused on solving practical, rea
 
 > **Building ideas into useful software.**
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="100%"/>
+
+</div>
+
 ## 🛠️ Tech Stack
 
 ### Languages
