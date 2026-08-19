@@ -42,3 +42,52 @@ I build practical software that solves real-world problems — from AI-powered a
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+
+## 🚀 Featured Projects
+
+### 🔎 TruthLens
+
+AI-powered fake-news detection system using Natural Language Processing and Machine Learning.
+
+**Tech:** Python · Django · NLP · Scikit-learn · JavaScript
+
+---
+
+### 🚧 Smart Pothole — Civic Issue Reporting System
+
+A full-stack platform for reporting, tracking, and managing civic issues such as potholes.
+
+**Tech:** React Native · React · Node.js · Express · MongoDB · Cloudinary · Google Maps API
+
+---
+
+### 🧱 Ayush Fly Ash Bricks
+
+A business-focused web application built to digitize and manage operations for a fly ash brick business.
+
+**Tech:** Web Development · JavaScript · Backend APIs · MongoDB
+
+---
+
+### 🎬 StreamHub
+
+A web-based streaming platform focused on creating a modern and interactive content browsing experience.
+
+**Tech:** HTML · CSS · JavaScript
+
+---
+
+### 🔗 Connect-X
+
+A project focused on building a modern platform for connecting users and enabling interactive communication.
+
+**Tech:** Web Development · JavaScript
+
+---
+
+### 📁 File Organizer
+
+A utility application designed to automatically organize files into categorized folders, making local file management faster and cleaner.
+
+**Tech:** Python
