@@ -46,51 +46,57 @@ I build practical software that solves real-world problems — from AI-powered a
 
 ## 🚀 Featured Projects
 
-### 🔎 TruthLens
+### 🔎 [TruthLens](https://github.com/harishankardansena/truthlens)
 
 AI-powered fake-news detection system using Natural Language Processing and Machine Learning.
 
-**Tech:** Python · Django · NLP · Scikit-learn · JavaScript
+**Tech:** Python · Django · NLP · Scikit-learn · JavaScript  
+**[GitHub Repository](https://github.com/harishankardansena/truthlens)**
 
 ---
 
-### 🚧 Smart Pothole — Civic Issue Reporting System
+### 🚧 [Smart Pothole — Civic Issue Reporting System](https://github.com/harishankardansena/pothole-civic-issue-reporting-system)
 
 A full-stack platform for reporting, tracking, and managing civic issues such as potholes.
 
-**Tech:** React Native · React · Node.js · Express · MongoDB · Cloudinary · Google Maps API
+**Tech:** React Native · React · Node.js · Express · MongoDB · Cloudinary · Google Maps API  
+**[GitHub Repository](https://github.com/harishankardansena/pothole-civic-issue-reporting-system) · [Live Demo](https://pothole-civic-issue-reporting-syste.vercel.app/)**
 
 ---
 
-### 🧱 Ayush Fly Ash Bricks
+### 🧱 [Ayush Fly Ash Bricks](https://github.com/harishankardansena/ayushflyashbricks)
 
 A business-focused web application built to digitize and manage operations for a fly ash brick business.
 
-**Tech:** Web Development · JavaScript · Backend APIs · MongoDB
+**Tech:** Web Development · JavaScript · Backend APIs · MongoDB  
+**[GitHub Repository](https://github.com/harishankardansena/ayushflyashbricks) · [Live Demo](https://ayushflyashbricks.onrender.com/)**
 
 ---
 
-### 🎬 StreamHub
+### 🎬 [StreamHub](https://github.com/harishankardansena/streamhub)
 
-A web-based streaming platform focused on creating a modern and interactive content browsing experience.
+A P2P streaming platform focused on creating a modern and interactive streaming experience.
 
-**Tech:** HTML · CSS · JavaScript
-
----
-
-### 🔗 Connect-X
-
-A project focused on building a modern platform for connecting users and enabling interactive communication.
-
-**Tech:** Web Development · JavaScript
+**Tech:** HTML · CSS · JavaScript  
+**[GitHub Repository](https://github.com/harishankardansena/streamhub) · [Live Demo](https://streamhub.onrender.com/)**
 
 ---
 
-### 📁 File Organizer
+### 🔗 [Connect-X](https://github.com/harishankardansena/connect-X)
+
+A modern platform designed to connect users and enable interactive communication.
+
+**Tech:** Web Development · JavaScript  
+**[GitHub Repository](https://github.com/harishankardansena/connect-X) · [Live Demo](https://new-alpha-dusky.vercel.app/login)**
+
+---
+
+### 📁 [File Organizer](https://github.com/harishankardansena/File-Organizer)
 
 A utility application designed to automatically organize files into categorized folders, making local file management faster and cleaner.
 
-**Tech:** Python
+**Tech:** Python  
+**[GitHub Repository](https://github.com/harishankardansena/File-Organizer)**
 
 ## 🧠 Currently Building & Learning
 
